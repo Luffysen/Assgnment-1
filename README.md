@@ -1,8 +1,8 @@
-# 🚖 Uber Fares Dataset Analysis
+# Uber Fares Dataset Analysis
 
 A clear, step-by-step project analyzing the Uber Fares Dataset using Power BI for actionable insights.
 
-## 📌 Project Overview
+## Project Overview
 
 This project guides you through:
 - Cleaning and preparing the Uber Fares dataset
@@ -10,20 +10,20 @@ This project guides you through:
 - Building an interactive Power BI dashboard
 - Extracting insights on fare patterns, peak times, and geographic distribution
 
-## 🛠️ Tools Used
+## Tools Used
 - **Power BI Desktop**
 - **Excel** (optional)
 - **Power Query**
 
-## 📊 Key Steps
+## Key Steps
 
-### 1️⃣ Data Preparation & EDA
+### Data Preparation & EDA
 - Load dataset and explore structure, types, and descriptive statistics.
 - Handle missing values and clean the data.
 - Feature engineering: time-based features, peak/off-peak indicators.
 - Export cleaned dataset for analysis.
 
-### 2️⃣ Power BI Analysis & Dashboard
+### Power BI Analysis & Dashboard
 - Import cleaned dataset into Power BI.
 - Create visualizations (hourly, daily, monthly ride patterns).
 - Build an interactive dashboard with:
@@ -32,14 +32,15 @@ This project guides you through:
   - Geographic mapping
 - Add filters and drill-down capabilities for interactivity.
 
-### 3️⃣ Final Report & Submission
+### Final Report & Submission
 - Structure your report: Introduction, Methodology, Analysis, Results, Recommendations.
 - Submit the `.pbix` file and upload screenshots in this repository for documentation.
 
-## 🖼️ Screenshots
+## Screenshots
 
 ### Dashboard Overview
-![Dashboard](screenshot_dashboard.png)
+<img width="1241" height="720" alt="Dashboard" src="https://github.com/user-attachments/assets/69a3d662-68e0-417e-823e-215a3674ea15" />
+
 
 ### Data Model & Loading
 ![Data Model](screenshot_model.png)
@@ -47,13 +48,4 @@ This project guides you through:
 ### EDA Visuals
 ![EDA](screenshot_eda1.png)
 
----
 
-## 📈 Key Insights
-✅ Identified peak ride times  
-✅ Mapped geographic ride distributions  
-✅ Analyzed fare variations by hour and day
-
----
-
-## 📂 Repository Structure
