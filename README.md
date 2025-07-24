@@ -1,7 +1,5 @@
 # Uber Fares Dataset Analysis
 
-A clear, step-by-step project analyzing the Uber Fares Dataset using Power BI for actionable insights.
-
 ## Project Overview
 
 This project guides you through:
@@ -12,7 +10,7 @@ This project guides you through:
 
 ## Tools Used
 - **Power BI Desktop**
-- **Excel** (optional)
+- **Excel** 
 - **Power Query**
 
 ## Key Steps
@@ -31,10 +29,6 @@ This project guides you through:
   - Time series analysis
   - Geographic mapping
 - Add filters and drill-down capabilities for interactivity.
-
-### Final Report & Submission
-- Structure your report: Introduction, Methodology, Analysis, Results, Recommendations.
-- Submit the `.pbix` file and upload screenshots in this repository for documentation.
 
 ## Screenshots
 
