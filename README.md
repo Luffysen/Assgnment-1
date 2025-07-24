@@ -34,7 +34,7 @@ This project guides you through:
 
 ### Dashboard Overview
 <img width="3567" height="2362" alt="feature_importance" src="https://github.com/user-attachments/assets/436135b6-9520-409c-8710-5c73ecd43d31" />
-<img width="3294" height="3014" alt="correlation_heatmap" src="https://github.com/user-attachments/assets/1b62063a-a91f-4196-9715-cdabde112893" />
+<img width="1907" height="996" alt="Screenshot 2025-07-24 214422" src="https://github.com/user-attachments/assets/cc91e1b2-9f8a-4b03-9fe6-3d26da0a7dcc" />
 <img width="2629" height="1646" alt="residuals_distribution" src="https://github.com/user-attachments/assets/e4f6b0b9-b07e-424c-95b6-e516b714476b" />
 
 
