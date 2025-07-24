@@ -43,9 +43,12 @@ This project guides you through:
 
 
 ### Data Model & Loading
-![Data Model](screenshot_model.png)
+<img width="1920" height="978" alt="Screenshot 2025-07-24 214312" src="https://github.com/user-attachments/assets/4fea2340-5b88-49a0-bf07-0c6a2e662a11" />
+
+
 
 ### EDA Visuals
-![EDA](screenshot_eda1.png)
+<img width="3294" height="3014" alt="correlation_heatmap" src="https://github.com/user-attachments/assets/3041aeef-9415-4865-b2b6-b3e3ab89fef2" />
+
 
 
